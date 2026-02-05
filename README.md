@@ -36,7 +36,7 @@ The dataset is not included in this repository.
 Data is uploaded manually in the notebook for reproducibility.
 
 -----------------------------------
-# Analyse de la Valeur Marchande des Joueurs de Football
+# VERSION FRANÇAISE : Analyse de la Valeur Marchande des Joueurs de Football
 
 ## Objectif
 Ce projet analyse la relation entre **l’âge des joueurs** et leur **valeur marchande** lors des transferts de football de haut niveau.

@@ -2,7 +2,7 @@
 # Football Market Value Analysis (French Version Below)
 
 ## Objective
-This project analyzes the relationship between **player age** and **market value** in elite football transfers.
+This project analyzes the relationship between **player age** and **market value** in elite football transfers (2025 summer window).
 
 To reduce noise from low-fee deals, the study focuses on the **Top 500 most expensive transfers**, providing a clearer view of high-value market dynamics.
 
@@ -39,7 +39,7 @@ Data is uploaded manually in the notebook for reproducibility.
 # VERSION FRANÇAISE : Analyse de la Valeur Marchande des Joueurs de Football
 
 ## Objectif
-Ce projet analyse la relation entre **l’âge des joueurs** et leur **valeur marchande** lors des transferts de football de haut niveau.
+Ce projet analyse la relation entre **l’âge des joueurs** et leur **valeur marchande** lors des transferts de football de haut niveau (mercato été 2025).
 
 Afin de limiter le bruit lié aux transferts à faible montant, l’analyse se concentre sur les **500 transferts les plus chers**, ce qui permet une lecture plus pertinente des dynamiques du marché d’élite.
 
